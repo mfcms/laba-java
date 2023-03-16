@@ -1,6 +1,8 @@
 package com.mfcms.laba.console.commands;
 
 import java.io.IOException;
+import client.util.Interactor;
+import client.RequestSender;
 
 import com.mfcms.laba.exceptions.CommandExecutionException;
 import com.mfcms.laba.model.MusicBandManager;
